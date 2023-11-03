@@ -1,2 +1,4 @@
 # LUNA
-Meet LUNA 🐾🌙 A cat bot who has many tricks up her paw.
+
+BOT home: https://potentialmeringue.imariacristina.repl.co
+LIVE page: https://luna-cat-bot.netlify.app/
